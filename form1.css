@@ -1,0 +1,25 @@
+#formcss{
+    box-shadow: 0px 0px 40px rgb(60 60 60);
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+#formcss input{
+    margin: 12px;
+    width: 300px;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid rgb(110 100 100);
+    color: red;
+}
+#formcss input::placeholder{
+    color: red;
+}
+#formcss button{
+    margin: 12px;
+    width: 300px;
+    padding: 10px;
+    font-size: 20px;
+}

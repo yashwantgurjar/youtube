@@ -1,0 +1,97 @@
+html{
+    overflow-x: hidden;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(52, 52, 113);
+    overflow-x: hidden; 
+}
+.nav .midnav{
+    display: flex;
+    /* justify-content: space-evenly; */
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+
+.nav .midnav li{
+    margin: 20px;
+    text-decoration: none;
+    list-style-type: none;
+    padding-right: 10px;
+    
+}
+
+.nav .startnav li{
+    padding-top: 20px;
+
+}
+
+.nav .midnav a{
+    color: black;
+ 
+}
+#btn {
+    width: 150px;
+    padding: 10px;
+    border-radius: 5px;
+ 
+}
+.hero {
+    background-image: url(https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=1380&t=st=1708259264~exp=1708259864~hmac=e18ff36393c7cd4ff1a4c86c2dda2e6a8b4cae893599ffcaab4328c9398a46c4);
+    background-color: rgb(193, 193, 230);
+     display: flex;
+    border-left: 50px solid black;
+    border-right: 50px solid black;
+    list-style-type: none;
+    color: yellow;
+    overflow-x: hidden; 
+}
+.nav .midnav li a{
+    color: beige;
+}
+.hero .hero1{
+    padding: 400px;
+}
+.boy{
+    width: 200px;
+    padding-top: px;
+    
+}
+.client{
+    background-image: url(https://cdn.photoroom.com/v1/assets-cached.jpg?path=backgrounds_v3/black/Photoroom_black_background_extremely_fine_texture_only_black_co_c3ee01bd-a082-44ff-b184-e338a13b2ffa.jpg);
+    width: 1600px;
+    display: flex;
+    justify-content: space-evenly;
+    tab-size: 14px;
+    overflow-x: hidden;
+ }
+ .state div{
+    /* display: flex;  */
+ }
+ #smartwork{
+    display: flex;
+ }
+ #intelligence{
+    display: flex;
+ }
+
+ 
+
+    
+
+    
+
+
+
+
+
+
+
+
+
